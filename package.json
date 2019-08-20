@@ -1,0 +1,22 @@
+{
+  "name": "async-pipeline",
+  "version": "1.0.0",
+  "description": "Javascript Async Pipeline",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": {
+    "name": "Luis Angel Morales Romo",
+    "email": "luis@insist.com.mx",
+    "url": "https://github.com/moralesmx"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/moralesmx/async-pipeline.git"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.5.3"
+  }
+}
