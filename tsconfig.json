@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "target": "es2015",
+    "module": "commonjs",
+    "declaration": true,
+    "rootDir": "src",
+    "outDir": "dist",
+    "lib": [
+      "es2019"
+    ]
+  }
+}
